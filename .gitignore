@@ -1,0 +1,9 @@
+﻿CursoryUnity/Library
+CursoryUnity/Logs
+CursoryUnity/Temp
+*.vsconfig
+*.sln
+CursoryUnity/UserSettings
+CursoryUnity/obj
+*.csproj
+CursoryUnity/.vs
